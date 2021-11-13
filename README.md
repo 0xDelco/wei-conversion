@@ -15,7 +15,7 @@ Wei is the base unit of Ether. It offering 10^18 units of precision provides ver
 
 Included is a [simple application](/src/) that uses [Nethereum](https://nethereum.com/) to demonstrate the conversion of various values to show how they are offset.
 
-Example output from the app converting Ether to wei in progressively large values:
+Example output from the app converting Ether to wei in progressively larger values:
 ```
 .001        => 1000000000000000
 .01         => 10000000000000000
