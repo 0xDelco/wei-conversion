@@ -62,8 +62,6 @@ For the same values, included below is a matrix that displays position index ref
         <th>22</th>
         <th>23</th>
         <th>24</th>
-        <th>25</th>
-        <th>26</th>
     </tr>
 </thead>
 <tbody>
@@ -85,8 +83,6 @@ For the same values, included below is a matrix that displays position index ref
     <td>0</td>
     <td>0</td>
     <td>0</td>
-    <td></td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -122,8 +118,6 @@ For the same values, included below is a matrix that displays position index ref
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
 </tr>
 <tr>
     <td>1</td>
@@ -146,8 +140,6 @@ For the same values, included below is a matrix that displays position index ref
     <td>0</td>
     <td>0</td>
     <td>0</td>
-    <td></td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -180,8 +172,6 @@ For the same values, included below is a matrix that displays position index ref
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
 </tr>
 <tr>
     <td>1,000</td>
@@ -207,8 +197,6 @@ For the same values, included below is a matrix that displays position index ref
     <td>0</td>
     <td>0</td>
     <td>0</td>
-    <td>0</td>
-    <td></td>
     <td></td>
     <td></td>
 </tr>
@@ -237,8 +225,6 @@ For the same values, included below is a matrix that displays position index ref
     <td>0</td>
     <td>0</td>
     <td>0</td>
-    <td>0</td>
-    <td></td>
     <td></td>
 </tr>
 <tr>
@@ -266,8 +252,6 @@ For the same values, included below is a matrix that displays position index ref
     <td>0</td>
     <td>0</td>
     <td>0</td>
-    <td>0</td>
-    <td></td>
     <td></td>
 </tr>
 <tr>
@@ -296,8 +280,6 @@ For the same values, included below is a matrix that displays position index ref
     <td>0</td>
     <td>0</td>
     <td>0</td>
-    <td>0</td>
-    <td>0</td>
 </tr>
 <tr>
     <td>100,001</td>
@@ -306,8 +288,6 @@ For the same values, included below is a matrix that displays position index ref
     <td>0</td>
     <td>0</td>
     <td>1</td>
-    <td>0</td>
-    <td>0</td>
     <td>0</td>
     <td>0</td>
     <td>0</td>
